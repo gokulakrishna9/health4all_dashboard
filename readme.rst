@@ -1,1 +1,1 @@
-discontinued
+Project not maintained
